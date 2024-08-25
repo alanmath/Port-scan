@@ -25,6 +25,7 @@ Port-Scan é uma ferramenta simples de escaneamento de portas TCP desenvolvida e
   ``
 
 2. **Interface Gráfica:**
+   
     ![image](https://github.com/user-attachments/assets/9c4f125c-ff9e-47be-ad2f-277515316f10)
 
 
